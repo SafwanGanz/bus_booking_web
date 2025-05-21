@@ -347,7 +347,7 @@ This project is for educational purposes and can be used freely. Ensure proper a
 
 ## Contact
 For support or inquiries, please reach out:
-- **Email**: support@citybusbooking.com
-- **Phone**: +91 123 456 7890
+- **Email**: support@safwanganz.tech
+- **Phone**: +91 701 207 4386
 
 Happy coding! 🚍
