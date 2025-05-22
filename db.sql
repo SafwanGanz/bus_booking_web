@@ -1,5 +1,4 @@
 -- Database Schema for City Bus Booking System
--- Generated on May 22, 2025
 
 -- Create and select the database
 CREATE DATABASE IF NOT EXISTS bus_booking;
